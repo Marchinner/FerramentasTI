@@ -18,4 +18,9 @@ envio de e-mails, execução de comandos e scripts PowerShell e criação de jan
 
 ## Funcionalidades
 
-- 
+- Comandos para verificações rápidas de segurança/organização e integridade do Active Directory
+- Buscar e editar informações do usuário, mover, ativar, alterar e-mail e computador liberado para logon
+- Buscar e habilitar/desabilitar computadores da rede
+- Enviar uma mensagem automática conforme o formulário para informar a movimentação de um item de patrimônio
+- Enviar uma mensagem automática para um novo item de patrimônio e anexar as fotos necessárias para cadastro
+- Enviar uma mensagem automática de "boas vindas" que informa ao novo colaborador sobre suas credenciais e acessos
