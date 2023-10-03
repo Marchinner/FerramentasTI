@@ -24,3 +24,15 @@ envio de e-mails, execução de comandos e scripts PowerShell e criação de jan
 - Enviar uma mensagem automática conforme o formulário para informar a movimentação de um item de patrimônio
 - Enviar uma mensagem automática para um novo item de patrimônio e anexar as fotos necessárias para cadastro
 - Enviar uma mensagem automática de "boas vindas" que informa ao novo colaborador sobre suas credenciais e acessos
+
+
+## Tecnologias
+- Java JDK 21
+- Java Swing
+- Maven
+- JPowerShell Maven Plugin
+- Javax Mail Maven Plugin
+
+## Observações
+Esta é uma versão com código fonte modificado para se tornar pública, portanto, as funcionalidades que precisam de PowerShell e o envio de e-mail não funcionarão pois dependem de informações e acessos que são privadas da empresa.
+Você pode rodar o aplicativo e visualizar todo o seu frontend e sua lógica utilizada no backend, porém as funcionalidades não estão com os dados.
