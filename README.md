@@ -11,10 +11,10 @@ envio de e-mails, execução de comandos e scripts PowerShell e criação de jan
 
 ## Screenshots
 ![App Screenshot](https://github.com/Marchinner/FerramentasTI/blob/master/src/main/resources/telaUtilitarios.png)
-![App Screenshot](https://githug.com/Marchinner/FerramentasTI/blob/master/src/main/resources/telaUsuarios.png)
-![App Screenshot](https://githug.com/Marchinner/FerramentasTI/blob/master/src/main/resources/telaComputadores.png)
-![App Screenshot](https://githug.com/Marchinner/FerramentasTI/blob/master/src/main/resources/telaPatrimonio.png)
-![App Screenshot](https://githug.com/Marchinner/FerramentasTI/blob/master/src/main/resources/telaCredenciais.png)
+![App Screenshot](https://github.com/Marchinner/FerramentasTI/blob/master/src/main/resources/telaUsuarios.png)
+![App Screenshot](https://github.com/Marchinner/FerramentasTI/blob/master/src/main/resources/telaComputadores.png)
+![App Screenshot](https://github.com/Marchinner/FerramentasTI/blob/master/src/main/resources/telaPatrimonio.png)
+![App Screenshot](https://github.com/Marchinner/FerramentasTI/blob/master/src/main/resources/telaCredenciais.png)
 
 ## Funcionalidades
 
